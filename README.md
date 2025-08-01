@@ -3,5 +3,5 @@
 * API key for Google Gemini required
 
 ## Technologies Used
-**LangChain & Google Gemini API for document summarization**
-**Flask for server side web functionality**
+- **LangChain & Google Gemini API for document summarization**
+- **Flask for server side web functionality**
