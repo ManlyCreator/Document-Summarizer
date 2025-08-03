@@ -5,3 +5,7 @@
 ## Technologies Used
 - LangChain & Google Gemini API for document summarization
 - Flask for server side web functionality
+- BootStrap for styling
+
+## Preview:
+![image_alt](./images/preview.jpg)
